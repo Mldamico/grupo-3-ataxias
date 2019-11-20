@@ -1,0 +1,11 @@
+.colorDeFondo {
+	background-color: rgb(255, 76, 5);
+	color: antiquewhite;
+}
+.navbarEstatico{
+    /* overflow: hidden; */
+    position:fixed;
+    /* top:0; */
+    width: 100%;
+    z-index: 100;
+}
